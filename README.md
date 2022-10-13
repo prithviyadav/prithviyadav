@@ -1,8 +1,14 @@
 ### HI THERE 👋
 
+<br /><br />
+
 ![alt text](https://media.tenor.com/THnFbCn70McAAAAC/microsoft-hackathon-hackathon.gif)
 
+<br />
+
 <p align="center">I believe Open Source is for EVERYONE. Join me on this amazing platform and lets contribute together !!!</p>
+
+<br />
 
 - 🌱 I’m currently learning : B.Tech in NSUT,Delhi
 - 👯 I’m looking to collaborate on : Interesting Open-Souce Projects offering to learn new technologies and skills
@@ -11,5 +17,7 @@
 - 📫 Reach me : https://www.linkedin.com/in/prithvi-yadav-590742232/
 
 <p align="center">Check Out my profile !!!</p>
+
+<br />
 
 ---
